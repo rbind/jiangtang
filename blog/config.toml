@@ -1,0 +1,37 @@
+baseurl = "/"
+relativeurls = true
+languageCode = "en-us"
+title = "Jiangtang Hu | 胡江堂"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+publishDir = "C:\\Users\\jhu\\Documents\\GitHub\\jiangtang.github.com\\blog"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/jiangtang"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/JiangtangHu"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.9.0"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+

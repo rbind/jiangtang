@@ -1,0 +1,30 @@
+---
+title: "Serious Poems for Kids"
+author: ["Jiangtang Hu"]
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: book
+link-citations: yes
+site: bookdown::bookdown_site
+
+description: "Serious Poems for Kids"
+url: 'http\://jiangtanghu.com/4you'
+github-repo: Jiangtang/poem4kids
+twitter-handle: JiangtangHu
+
+
+---
+
+
+#   {-}
+
+
+
+<http://jiangtanghu.com/4you>
+
+Kids can appreciate William Carlos Williams' Red Wheelbarrow, even it was not necessary written for kids.  
+
+For this purpose, this collection excludes the wonderful poems from Shel Silverstein, Edward Lear and such.). 
+
+
+```

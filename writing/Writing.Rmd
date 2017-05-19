@@ -1,0 +1,392 @@
+---
+title: "La chair est triste"
+author: ["Jiangtang Hu"]
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: book
+link-citations: yes
+site: bookdown::bookdown_site
+
+description: "Personal Notebook"
+url: 'http\://jiangtanghu.com/Writing'
+github-repo: Jiangtang/Writing
+twitter-handle: JiangtangHu
+
+
+---
+
+
+
+
+# Welcome {-}
+
+
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/us/). 
+
+<!--chapter:end:index.Rmd-->
+
+# Philosophical Notes
+
+
+## Why Descartes' Thought on Mind-Body Dichotomy is Problematic? A Case in Video Game Setting
+
+## Why George Berkele's "To be is to be perceived" is Reasonable in Some Sense? A Video Game Analogy 
+
+
+<!--chapter:end:01_Philosophy.Rmd-->
+
+# Iliad
+
+> There is no place where one really feels at home anymore.   
+> 
+> So, the thing that one longs to get back to, before anything else,  
+>  
+> is whatever place there may be where one could feel at home,   
+> 
+> and that is because it is in that place - and in that place alone -   
+>   
+> 
+> where one would really like to feel at home.   
+> 
+> That place is the world of the **Greeks**.  
+> 
+>    --Friedrich Nietzsche, *The Will to Power: Attempt at a Revaluation of All Values* (1885)  
+
+## Resources 
+
+### English Translations and Audiobooks
+
+#### Translated by Ian Johnson {#Johnson-Iliad}
+
+<p style="text-align:center"> <img src="images/Johnson-Iliad.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Ian Johnson][1], *free*
+
+The audio version by [Anton Lesser][2] is in [Naxos Audiobooks][3].
+
+This version is not as popular as the big three in Section \@ref(Fagles-Iliad). I put it on top because this is the most accessible *Iliad* I have even read and it's FREE. Another bonus is the high quality unabridged audiobook.
+
+#### Translated by Samuel Butler, Revised by Gregory Nagy et al. {#Nagy-Iliad}
+
+In [Center For Hellenic Studies](http://chs.harvard.edu/CHS/article/display/5286), *free*
+
+The only prose translation in this list. Used in a MOOC course of \@ref(Nagy-H24H-Iliad).
+
+One of the revisers [Gregory Nagy](http://chs.harvard.edu/CHS/article/display/1234) said this revised translation aims to be as honest as possible to the original Greek text. 
+
+#### Translated by [Robert Fagles](https://www.wikiwand.com/en/Robert_Fagles) {#Fagles-Iliad}
+
+<p style="text-align:center"> <img src="images/Fagles-Iliad.jpg" width="225" height="325" alt="Cover image" />  </p>
+
+In [Amazon](https://www.amazon.com/gp/product/0140275363/). This is arguably the best translation in the market considering the [tradeoff of rigorousness and readability](https://oldbooksblog.wordpress.com/2010/10/18/best-translation-iliad/). It's also the only print version I hold.
+
+The [corresponding audiobook](http://www.audible.com/pd/Classics/The-Iliad-Audiobook/B002V5D8LU/) is abridged, unfortunately. This is the only drawback I think of using this version (not the version itself).
+
+Traditionally the other two strong competitive translations are [Richmond Lattimore](https://www.amazon.com/Iliad-Homer/dp/0226470490/) and [Robert Fitzgerald](https://www.amazon.com/Iliad-Homer/dp/0374529051/). These two versions both have nice unabridged audiobooks:
+
+<p style="text-align:center"> 
+<img src="images/Lattimore-Iliad.jpg"  width="225" height="325" alt="Cover image" /> 
+<img src="images/Fitzgerald-Iliad.jpg" width="225" height="325" alt="Cover image" />   </p>  
+
+
+#### Translated by [Caroline Alexander](https://www.wikiwand.com/en/Caroline_Alexander_(author)) {#Caroline-Iliad}
+
+<p style="text-align:center"> <img src="images/Caroline-Iliad.jpg" width="225" height="325" alt="Cover image" />  </p>
+
+In [Amazon](https://www.amazon.com/Iliad-New-Translation-Caroline-Alexander/dp/0062046284/). 
+
+There are dozens of modern translations of *Iliad* and the reason I single this new translation out is solely because, this is the very first female translation of Homer around the world! Currently I only read a fraction of her translation from one of her other books, [*The War That Killed Achilles*](https://www.amazon.com/War-That-Killed-Achilles-Homers/dp/0143118269/).
+
+### Video Courses
+
+#### The Ancient Greek Hero in 24 Hours (Hour 1-8 ) {#Nagy-H24H-Iliad}
+
+<p style="text-align:center"> <img src="images/Nagy-H24H.jpg" width="225" height="325" alt="Cover image" />  </p>
+
+In [edX](https://courses.edx.org/courses/course-v1%3AHarvardX%2BHUM2x%2B2T2016/info), taught by [Gregory Nagy](http://chs.harvard.edu/CHS/article/display/1234) of Harvard University. 
+
+Use text in Section \@ref(Nagy-Iliad). The accompany book for this course is, *The Ancient Greek Hero in 24 Hours* by the instructor which is also free [online](http://chs.harvard.edu/CHS/article/display/5971).
+
+Homeric Iliad  
+Homeric Odyssey  
+The Epic Cycle  
+Hesiodic Theogony  
+Hesiodic Works and Days  
+Herodotus’ Histories  
+Homeric Hymn  
+Alcman’s Partheneion  
+The Poetry of Sappho  
+Aeschylus’ Agamemnon  
+Aeschylus’ Libation Bearers  
+Aeschylus’ Eumenides  
+Sophocles’ Oedipus at Colonus  
+Sophocles’ Oedipus Tyrannos  
+Euripides’ Hippolytus  
+Euripides’ Bacchae  
+Plato’s The Apology of Socrates  
+Plato’s Phaedo  
+Pausanias  
+Theognis of Megara  
+Pindar’s Pythian  
+Selections from Aristotle  
+
+#### Greeks at War: Homer at Troy
+
+In [edX](https://courses.edx.org/courses/course-v1%3AColgateX%2BGW101x%2B3T2015/info), taught by [Robert Garland](http://www.colgate.edu/facultysearch/facultydirectory/rgarland) of Colgate University. 
+
+
+
+## Book I (1)
+
+### Who's will
+
+### Gods intervene, metaphorically
+
+Gods even fights with immortals physically. but  
+Apollo, Pallas Athena  --  metaphorically
+
+### Achilles is a good leader, BUT
+
+Achilles to mom: I'm the first  ..  so far so good...  
+
+Agamemnon: ironic care
+
+### Achilles and Muhammad Ali
+
+
+
+
+## Book II (2)
+
+
+
+[1]: https://records.viu.ca/~johnstoi/homer/iliad_title.htm
+[2]: https://www.wikiwand.com/en/Anton_Lesser
+[3]: http://www.naxosaudiobooks.com/iliad-the-unabridged
+
+
+
+<!--chapter:end:02-Iliad.Rmd-->
+
+# Odyssey
+
+> As we go out on the fields  
+> Which you circumscribed,   
+> Planes of death and ambition   
+> Axles racing in their wheels   
+> Blood upon the powdery sand:     
+>   
+>   
+> There are ingots of experience  
+> And shadows in the night,  
+> Fires flash and gleam as  
+> As all this runs away in time,  
+> To your great voice we turn.  
+>  
+>   -Kevin McGrath, *Homer*  
+
+## Resources
+
+### English Translations and Audiobooks
+
+#### Translated by Ian Johnson
+
+[Ian Johnson](https://records.viu.ca/~johnstoi/homer/odysseytofc.htm), *free*
+
+#### Translated by Samuel Butler, Revised by Gregory Nagy et al.  {#Nagy-Odyssey}
+
+in [Center For Hellenic Studies](http://chs.harvard.edu/CHS/article/display/5287), *free*
+
+The only prose translation in this list. Used in a MOOC course of \@ref(Nagy-H24H-Odyssey).
+
+The reviser [Gregory Nagy](http://chs.harvard.edu/CHS/article/display/1234) said this revised translation aims to be as honest as possible to the original Greek text. 
+
+
+### Video Courses
+
+#### Greek and Roman Mythology (Week 1-4) 
+
+In [Coursera](https://www.coursera.org/learn/mythology/home/welcome), taught by [Peter Struck](http://www.sas.upenn.edu/~struck/) of University of Pennsylvania. 
+
+Homer, Odyssey 《奥德赛》  
+Hesiod, Theogony 《神谱》  
+Homeric Hymns to Apollo and Demeter 荷马时代的诗歌  
+Aeschylus, Oresteia 埃斯库罗斯《俄瑞斯忒亚》三连剧  
+Sophocles, Oedipus the King 索福克勒斯《俄狄浦斯王》  
+Euripides, Bacchae 欧里庇得斯《酒神的女祭司》  
+Vergil, Aeneid 维吉尔《埃涅阿斯纪》  
+Ovid, Metamorphoses 奥维德《变形记》  
+
+
+#### The Ancient Greek Hero in 24 Hours (Hour 9-11) {#Nagy-H24H-Odyssey}
+
+In [edX](https://courses.edx.org/courses/course-v1%3AHarvardX%2BHUM2x%2B2T2016/info), taught by [Gregory Nagy](http://chs.harvard.edu/CHS/article/display/1234) of Harvard University. 
+
+Using text in Section \@ref(Nagy-Odyssey)
+
+
+
+
+<!--chapter:end:03-Odyssey.Rmd-->
+
+# Plato
+
+
+
+## Resources
+
+### Video Courses
+
+#### Ancient Philosophy: Plato & His Predecessors
+
+In [Coursera](https://www.coursera.org/learn/plato/home/welcome), taught by [Susan Sauvé Meyer](https://philosophy.sas.upenn.edu/faculty/smeyer) of University of Pennsylvania. 
+
+#### Reason and Persuasion: Thinking Through Three Dialogues By Plato
+
+In [Coursera](https://www.coursera.org/learn/plato-dialogues/home/welcome), taught by [John Holbo](http://www.johnholbo.com/) of National University of Singapore. 
+
+#### Introduction to Political Philosophy (Lecture 2-6)
+
+In [Open Yale Courses](http://oyc.yale.edu/political-science/plsc-114), taught by [Steven B. Smith](http://politicalscience.yale.edu/people/steven-smith) of Yale University. 
+
+#### The Ancient Greek Hero in 24 Hours (Hour 22-24 ) {#Nagy-H24H-Plato}
+
+<p style="text-align:center"> <img src="images/Nagy-H24H.jpg" width="225" height="325" alt="Cover image" />  </p>
+
+In [edX](https://courses.edx.org/courses/course-v1%3AHarvardX%2BHUM2x%2B2T2016/info), taught by [Gregory Nagy](http://chs.harvard.edu/CHS/article/display/1234) of Harvard University. 
+
+
+<!--chapter:end:04-Plato.Rmd-->
+
+# Aristotle
+
+
+
+## Resources
+
+### Video Courses
+
+#### Ancient Philosophy: Aristotle and His Successors
+
+In [Coursera](https://www.coursera.org/learn/aristotle/home/welcome), taught by [Susan Sauvé Meyer](https://philosophy.sas.upenn.edu/faculty/smeyer) of University of Pennsylvania. 
+
+
+#### Introduction to Political Philosophy (Lecture 7-9)
+
+In [Open Yale Courses](http://oyc.yale.edu/political-science/plsc-114), taught by [Steven B. Smith](http://politicalscience.yale.edu/people/steven-smith) of Yale University. 
+
+<!--chapter:end:05-Aristotle.Rmd-->
+
+# Hebrew Bible
+
+## Resources
+
+### Study Bible (English)
+
+#### The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version, 4th Edition
+
+<p style="text-align:center"> <img src="images/Oxford-Bible.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/New-Oxford-Annotated-Bible-Apocrypha/dp/0195289609). 
+
+#### The Jewish Study Bible: 2nd Edition
+
+<p style="text-align:center"> <img src="images/Jewish-Bible.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/Jewish-Study-Bible-Second/dp/0199978468). 
+
+### Introductory
+
+#### How to Read the Bible: A Guide to Scripture, Then and Now {#Kugel-Bible}
+
+<p style="text-align:center"> <img src="images/Kugel-Bible.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/How-Read-Bible-Guide-Scripture/dp/0743235878). 
+
+Used in course \@ref(Cohen-Bible).
+
+
+### Video Courses
+
+#### The Hebrew Bible {#Cohen-Bible}
+
+In [Biblical Archaeology Society](http://courses.biblicalarchaeology.org/hebrewbible/), or [iTunes](https://itunes.apple.com/us/course/the-hebrew-bible/id819616149), taught by [Shaye J.D. Cohen](http://studyofreligion.fas.harvard.edu/people/shaye-jd-cohen) of Harvard University. 
+
+Use \@ref(Kugel-Bible) as textbook.
+
+#### The Hebrew Scriptures in Judaism and Christianity
+
+In [iTunes](https://itunes.apple.com/us/course/hebrew-scriptures-in-judaism/id512201207), taught by [Shaye J.D. Cohen](http://studyofreligion.fas.harvard.edu/people/shaye-jd-cohen) of Harvard University. 
+
+
+#### Introduction to the Old Testament (Hebrew Bible)
+
+In [Open Yale Courses](http://oyc.yale.edu/religious-studies/rlst-145), taught by [Christine Hayes](http://religiousstudies.yale.edu/people/christine-hayes) of Yale University. 
+
+The course contents also went to a book, [*Introduction to the Bible*](https://www.amazon.com/Introduction-Bible-Open-Yale-Courses/dp/0300181795/)
+
+<p style="text-align:center"> <img src="images/Hayes-NT.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+#### The Bible's Prehistory, Purpose, and Political Future
+
+In [Coursera](https://www.coursera.org/learn/bible-history/home/welcome), taught by [Jacob L. Wright](http://candler.emory.edu/faculty/profiles/wright-jacob.html) of Emory University. 
+
+
+<!--chapter:end:11-Hebrew_Bible.Rmd-->
+
+# New Testament
+
+## Resources
+
+### Study Bible (English)
+
+#### The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version, 4th Edition
+
+<p style="text-align:center"> <img src="images/Oxford-Bible.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/New-Oxford-Annotated-Bible-Apocrypha/dp/0195289609). 
+
+#### The Restored New Testament: A New Translation with Commentary, Including the Gnostic Gospels Thomas, Mary, and Judas 
+
+<p style="text-align:center"> <img src="images/Barnstone-NT.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/Restored-New-Testament-Translation-Commentary/dp/039306493X). 
+
+### Introductory
+
+#### The New Testament: A Historical Introduction to the Early Christian Writings {#Ehrman-NT}
+
+<p style="text-align:center"> <img src="images/Ehrman-NT.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+In [Amazon](https://www.amazon.com/New-Testament-Historical-Introduction-Christian/dp/019020382X). 
+
+Used in course \@ref(Martin-NT).
+
+
+### Early Christian writings
+
+[Early Christian writings](http://www.earlychristianwritings.com/)
+
+### Video Courses
+
+#### Introduction to the New Testament History and Literature {#Martin-NT}
+
+In [Open Yale Courses](http://oyc.yale.edu/religious-studies/rlst-152), taught by [Dale B. Martin](http://religiousstudies.yale.edu/people/dale-martin) of Yale University. 
+
+Use \@ref(Ehrman-NT) as textbook. The course contents also went to a book, [*New Testament History and Literature*](https://www.amazon.com/Testament-History-Literature-Open-Courses/dp/0300180853/)
+
+<p style="text-align:center"> <img src="images/Martin-NT.jpg" width="225" height="325" alt="Cover image" /> </p>
+
+#### Early Christianity: The Letters of Paul
+
+In [edX](https://courses.edx.org/courses/HarvardX%2FHDS1544.1x%2F2013_SOND/info), taught by [Laura Nasrallah](http://hds.harvard.edu/people/laura-s-nasrallah) of Harvard University. 
+
+####  Jesus in Scripture and Tradition
+
+In [edX](https://courses.edx.org/courses/NotreDameX%2FTH120.1x%2F2T2015/info), taught by [Gary Anderson](http://theology.nd.edu/people/faculty/gary-anderson/) of University of Notre Dame. 
+
+This course does not focus on the modern Bible scholarship; rather, it offers a seminary way to read Bible. Nice to have second view.
+
+<!--chapter:end:12-New_Testament.Rmd-->
+
