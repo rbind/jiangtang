@@ -30,7 +30,7 @@ tags:
 
 > 关于当代大学生，最令人震惊的事实是，再没有任何经典书籍能够塑造他们的爱好与想象。
 
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="Shakespearespolitics" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/shakespearespolitics-thumb.jpg" border="0" alt="Shakespearespolitics" width="263" height="359" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/shakespearespolitics.jpg)
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="Shakespearespolitics" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/shakespearespolitics-thumb.jpg" border="0" alt="Shakespearespolitics" width="263" height="359" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/shakespearespolitics.jpg)
 
 这本书写于上世纪60年代，但这一样是我们现在这个社会的问题。作者布鲁姆和雅法都是斯特劳斯的弟子，政治学学者，本书就从宗教、种族、共同体等政治学视角分析莎士比亚的四部作品：
 
@@ -43,7 +43,7 @@ tags:
 
 **2.  李笑来《**<a href="http://www.douban.com/subject/3609132/" target="_blank"><strong>把时间当作朋友</strong></a>**》（电子工业出版社，2009）**
 
-[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s3778613" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/s3778613-thumb.jpg" border="0" alt="s3778613" width="216" height="282" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/s3778613.jpg)
+[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s3778613" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/s3778613-thumb.jpg" border="0" alt="s3778613" width="216" height="282" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/s3778613.jpg)
 
 人们对时间的流逝无能为力，能管理的，就只有自己，<a href="http://xiaolai.net/" target="_blank">笑来</a>这本书，鼓励大伙培养自己强大的心智能力，做干脆利落的行动派。
 
@@ -55,7 +55,7 @@ tags:
 
 **3. 王晓朝译《柏拉图全集》（第一卷，人民出版社，2002）——《申辩篇》、《克里托篇》、《斐多篇》**
 
- **[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s2177663" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/s2177663-thumb.jpg" border="0" alt="s2177663" width="154" height="224" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/s2177663.jpg)** 
+ **[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s2177663" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/s2177663-thumb.jpg" border="0" alt="s2177663" width="154" height="224" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/s2177663.jpg)** 
 
 对西方哲学，读完休谟，接下来康德就看不懂了（是真看不懂），我一般有两种解决方案，一是直接绕开，跳着去读二十世纪那批通俗哲学家，或者决心把大好时光，丢给柏拉图，就跟一本书看到五十页不懂了，又从第一页开始看起。又，上面提到的阿兰·布鲁姆（不是《西方正典》的作者、耶鲁四人帮中的哈罗德·布鲁姆），被认为是柏拉图作品最好的英译者之一，有机会找来看看。
 

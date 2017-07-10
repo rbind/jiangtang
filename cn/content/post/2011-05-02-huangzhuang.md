@@ -15,13 +15,13 @@ categories:
 
 楼下的树都给绿了，春天了。
 
-<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="huangzhuang" border="0" alt="huangzhuang" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/05/huangzhuang-thumb.jpg" width="376" height="283" />
+<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="huangzhuang" border="0" alt="huangzhuang" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/05/huangzhuang-thumb.jpg" width="376" height="283" />
 
 2
 
 上个周末，呆在波士顿，一天下雨，一天天晴，两天都到哈佛和MIT转悠。这段日子是<a href="http://mit150.mit.edu/" target="_blank">MIT150周年</a>，隔壁<a href="http://100.tsinghua.edu.cn/" target="_blank">清华</a>也在搞。
 
-[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Harvard" border="0" alt="Harvard" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/05/harvard-thumb.jpg" width="391" height="294" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/05/harvard.jpg) 
+[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Harvard" border="0" alt="Harvard" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/05/harvard-thumb.jpg" width="391" height="294" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/05/harvard.jpg) 
 
 清华，中国最成功的学校，亩产万斤的示范田。
 

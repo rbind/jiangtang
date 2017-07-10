@@ -19,7 +19,7 @@ tags:
 
 大多数的经济学理论都是解释性模型，比如，很多漂亮的模型对上个世纪二三十年代的大萧条提供了令人信服的观点，但它们（放在几年前）对预测次贷危机毫无建树。当然，现在又有不少理论解释次贷危机，一样头头是道，令人叹服。
 
-[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="octopus_paul" border="0" alt="octopus_paul" src="http://li-and-jiang.com/blog/wp-content/uploads/2010/10/octopus-paul-thumb.jpg" width="244" height="217" />](http://li-and-jiang.com/blog/wp-content/uploads/2010/10/octopus-paul.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="octopus_paul" border="0" alt="octopus_paul" src="http://jiangtanghu.com/cn/wp-content/uploads/2010/10/octopus-paul-thumb.jpg" width="244" height="217" />](http://jiangtanghu.com/cn/wp-content/uploads/2010/10/octopus-paul.jpg) 
 
 类似地，预测效果好的模型的解释能力一般也比较差。最近有名的一个预测性模型是[章鱼保罗](http://www.hudong.com/wiki/%E7%AB%A0%E9%B1%BC%E4%BF%9D%E7%BD%97)方法，在预测2010年世界杯方面战绩非常好，预测成功率远远高于[高盛](http://www2.goldmansachs.com/ideas/global-economic-outlook/the-world-cup-2010.html)、[摩根大通](http://www.scribd.com/full/31537878?access_key=key-2hriexvwd0a39fqmw9ec)、[瑞银集团](http://www.ubs.com/1/e/bank_for_banks/news/topical_stories/edition_10.html)和[丹麦银行](http://www.scribd.com/doc/32112498/Danske-Bank-World-Cup-2010-Special)的定量分析师们建立的世界杯模型。——这就是某些预测性模型让人抓狂之处，它成功地预测了未来，你却根本不知道为什么（它也不告诉你为什么）！
 

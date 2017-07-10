@@ -28,7 +28,7 @@ tags:
 
 重要的是让WindowsLiveSpace和Wordpress的日期格式一致，这里我两个设置的是2009/03/30。在WindowsLiveSpace中，我的时间格式是10:24:05，设置的路径是“选项”->“常规”->“日期和时间格式”：
 
-[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="space_date" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/03/space-date-thumb.png" border="0" alt="space_date" width="233" height="121" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/03/space-date.png)
+[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="space_date" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/03/space-date-thumb.png" border="0" alt="space_date" width="233" height="121" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/03/space-date.png)
 
 另外，在“选项”->“日志”->“显示日志日期”选项中，勾选“在页首出显示日志发布日期”。在Wordpress中，相应的路径是“设置”->“常规”->”日期格式”。
 
@@ -44,13 +44,13 @@ tags:
 
 顺利的话，你将看到类似的回应：
 
-[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="cmd" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/03/cmd-thumb.png" border="0" alt="cmd" width="558" height="125" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/03/cmd.png)
+[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="cmd" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/03/cmd-thumb.png" border="0" alt="cmd" width="558" height="125" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/03/cmd.png)
 
 如果提示说python不可识别，就需要为Python设置环境变量，如果不明白什么是“环境变量”，依着下面的操作就是。
 
 “我的电脑”->右键“属性”->“高级”->“环境变量”->“系统变量”->点中一个叫Path的系统变量->“编辑”->在Path的变量值框的末尾，加上一个分号<span style="color: #ff0000;">;</span>（英文状态下），然后跟着是填上Python的安装目录，比如<span style="color: #ff0000;">c:Python25</span>。一路确定后，再回刚才的命令行试试python这个命令。
 
-[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="path" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/03/path-thumb.png" border="0" alt="path" width="452" height="325" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/03/path.png)
+[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="path" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/03/path-thumb.png" border="0" alt="path" width="452" height="325" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/03/path.png)
 
 **1.3.下载Beautiful Soup 3.0.6**
 
@@ -76,7 +76,7 @@ python live-space-mover.py -s [http://<span style="color: #ff0000;">yourSpaceNam
 
 其中，<span style="color: #ff0000;">yourSpaceName</span>是你Windows Live Space的名字。
 
-[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="Space-mover" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/03/spacemover-thumb.png" border="0" alt="Space-mover" width="425" height="149" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/03/spacemover.png)
+[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="Space-mover" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/03/spacemover-thumb.png" border="0" alt="Space-mover" width="425" height="149" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/03/spacemover.png)
 
 这个运行时间视你博客文章的多少而定，如果在屏幕上看到博客标题显示为乱码，不必在意。成功之后，在D:downloadBeautifulSoup-3.0.6文件夹，将生成一个类似export_03292009-2238.xml的文件，这就是你整个Space的文章、评论以及类别之类的了。
 
@@ -96,7 +96,7 @@ DELETE from wp\_comments WHERE comment\_ID>1;
 
 作者ID(post\_author)和评论ID(comment\_ID)你可以在phpMyAdmin中找到。
 
-[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="python_space_over" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/03/python-space-over-thumb.png" border="0" alt="python_space_over" width="363" height="103" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/03/python-space-over.png)
+[<img style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" title="python_space_over" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/03/python-space-over-thumb.png" border="0" alt="python_space_over" width="363" height="103" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/03/python-space-over.png)
 
 待看到“导入完毕。好好享受吧！”，心情当真是无比舒畅，按着赖哥哥宁的说法，是比大热天吃了冰水还舒服。
 

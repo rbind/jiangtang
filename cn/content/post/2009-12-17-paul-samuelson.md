@@ -27,7 +27,7 @@ tags:
   - 萨缪尔森
   - 阿妮塔·萨默斯
 ---
-[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Samuelson1950" border="0" alt="Samuelson1950" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/samuelson1950-thumb.jpg" width="207" height="244" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/12/samuelson1950.jpg)
+[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Samuelson1950" border="0" alt="Samuelson1950" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/samuelson1950-thumb.jpg" width="207" height="244" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/12/samuelson1950.jpg)
 
 1.
 
@@ -65,11 +65,11 @@ tags:
   <table border="0" cellspacing="0" cellpadding="2" width="400" align="center">
     <tr>
       <td valign="top" width="200">
-        <img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="paul16" border="0" alt="paul16" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/paul16-thumb.jpg" width="169" height="239" />
+        <img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="paul16" border="0" alt="paul16" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/paul16-thumb.jpg" width="169" height="239" />
       </td>
       
       <td valign="top" width="200">
-        <a href="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/paul6.jpg"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="paul6" border="0" alt="paul6" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/paul6-thumb.jpg" width="170" height="244" /></a>
+        <a href="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/paul6.jpg"><img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="paul6" border="0" alt="paul6" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/paul6-thumb.jpg" width="170" height="244" /></a>
       </td>
     </tr>
   </table>

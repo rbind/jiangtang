@@ -27,7 +27,7 @@ tags:
 
 再说说纸书。
 
-[<img title="FPessoa" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="236" alt="FPessoa" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/06/fpessoa-thumb1.gif" width="159" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/06/fpessoa1.gif) 
+[<img title="FPessoa" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="236" alt="FPessoa" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/06/fpessoa-thumb1.gif" width="159" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/06/fpessoa1.gif) 
 
 最近<a href="http://li-and-jiang.com/blog/author/li/" target="_blank">Li</a>带回家一本书，葡萄牙作家费尔南多·佩索阿的随笔集，《<a href="http://www.douban.com/subject/1015864/" target="_blank">惶然录</a>》（韩少功译，上海三联，2008）。费尔南多·佩索阿（<a href="http://en.wikipedia.org/wiki/Fernando_Pessoa" target="_blank">Fernando Pessoa</a>，1888-1935）是葡萄牙有史以来最强劲的作家，地位类似于中国新文学史上的鲁迅，古典小说中的曹雪芹，诗人中的李白，——这都是他死后的声名了。费尔南多·佩索阿在世时，比较正式的工作是给一个商人做助理，写写邮件，翻译文档之类（进出口公司吧），大多时间在里斯本度过，独身，暗恋一个打字小姐。在他的作品中，他有三个不同的“自我”(Alberto Caeiro,Ricardo Reis, Álvaro de Campos)，所指的角色各异，这本随笔集的主人公，就是Ricardo Reis（韩少功这个译本称作伯纳多·索阿雷斯），一个无聊的助理会计师，大部分时间呆在里斯本的道拉多雷斯大街，他说，“我可以肯定，即便整个世界被我握在手中，我也会把它统统换成一张返回道拉多雷斯大街的电车票。”。在书中，索阿雷斯谈谈他的老板V先生，
 

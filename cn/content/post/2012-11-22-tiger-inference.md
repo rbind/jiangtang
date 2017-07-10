@@ -10,7 +10,7 @@ categories:
   - 家有虎娃
   - 生活
 ---
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="thinking_Tiger" border="0" alt="thinking_Tiger" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/11/thinking_Tiger_thumb.jpg" width="200" height="240" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/11/thinking_Tiger.jpg)
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="thinking_Tiger" border="0" alt="thinking_Tiger" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/11/thinking_Tiger_thumb.jpg" width="200" height="240" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/11/thinking_Tiger.jpg)
 
 按照学理，大陆国家（法国、德国）是思辩学派，英国属于经验主义学派。虎头从大陆一系。
 

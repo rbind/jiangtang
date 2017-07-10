@@ -22,7 +22,7 @@ tags:
   - 李开复
   - 格林斯潘
 ---
-> [<img title="greenspan" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="320" alt="greenspan" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/04/greenspan-thumb.png" width="323" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/04/greenspan.png) 
+> [<img title="greenspan" style="border-top-width: 0px; display: block; border-left-width: 0px; float: none; border-bottom-width: 0px; margin-left: auto; margin-right: auto; border-right-width: 0px" height="320" alt="greenspan" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/04/greenspan-thumb.png" width="323" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/04/greenspan.png) 
 
 > <p align="center">
 >   And please let Alan Greenspan accept the things he cannot change, give him the courage to change the things he can and the wisdom to know the difference.

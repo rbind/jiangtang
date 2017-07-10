@@ -18,7 +18,7 @@ tags:
 
 老子说婴儿未知男女之事，小生殖器却常常勃起，这是精气充足的缘故。我刚要盛赞虎头“无欲则刚”，不料……
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="pis" border="0" alt="pis" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/02/pis-thumb.jpg" width="232" height="225" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/02/pis.jpg) 
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="pis" border="0" alt="pis" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/02/pis-thumb.jpg" width="232" height="225" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/02/pis.jpg) 
 
 ## &#160;
 
@@ -44,7 +44,7 @@ google了一下，很多婴儿会把自己的脸抓破；但如果套着他的�
 
 手有了着落，就不再往自己脸上招呼，小家伙终于知道力量的和平利用了。
 
-<a href="http://li-and-jiang.com/blog/wp-content/uploads/2010/08/tigerrose.jpg" target="_blank"><img src="http://li-and-jiang.com/blog/wp-content/uploads/2010/08/tigerrose.jpg" /></a>&#160;
+<a href="http://jiangtanghu.com/cn/wp-content/uploads/2010/08/tigerrose.jpg" target="_blank"><img src="http://jiangtanghu.com/cn/wp-content/uploads/2010/08/tigerrose.jpg" /></a>&#160;
 
 ## **虎头伯格森**
 

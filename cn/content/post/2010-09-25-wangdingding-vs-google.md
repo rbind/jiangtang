@@ -33,7 +33,7 @@ tags:
 
 &#160;
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="pku" border="0" alt="pku" src="http://li-and-jiang.com/blog/wp-content/uploads/2010/09/pku-thumb.png" width="564" height="175" />](http://li-and-jiang.com/blog/wp-content/uploads/2010/09/pku.png) 
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="pku" border="0" alt="pku" src="http://jiangtanghu.com/cn/wp-content/uploads/2010/09/pku-thumb.png" width="564" height="175" />](http://jiangtanghu.com/cn/wp-content/uploads/2010/09/pku.png) 
 
 &#160;
 

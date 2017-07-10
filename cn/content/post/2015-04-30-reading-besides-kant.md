@@ -41,7 +41,7 @@ tags:
 
 # 4. 诺曼・所罗门 （Norman Solomon）《[当代学术入门：犹太教](http://book.douban.com/subject/1025067/)》
 
-[<img title="Judaism" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; border-left: 0px; display: block; padding-right: 0px; margin-right: auto" border="0" alt="Judaism" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Judaism_thumb.png" width="334" height="480" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Judaism.png)
+[<img title="Judaism" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; border-left: 0px; display: block; padding-right: 0px; margin-right: auto" border="0" alt="Judaism" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Judaism_thumb.png" width="334" height="480" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Judaism.png)
 
 我手头有几本犹太学者阐述《圣经》的[书](http://li-and-jiang.com/blog/2012/07/08/life-reading/)，这本也是拿来充电，它是牛津大学_[Very Short Introductory](http://en.wikipedia.org/wiki/Very_Short_Introductions)_系列的一本。
 

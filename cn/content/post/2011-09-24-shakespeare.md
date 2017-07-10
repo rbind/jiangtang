@@ -13,7 +13,7 @@ tags:
   - Thomas Sowell
   - 虎
 ---
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="William_Shakespeare" border="0" alt="William_Shakespeare" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/09/william-shakespeare-thumb.jpg" width="235" height="285" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/09/william-shakespeare.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="William_Shakespeare" border="0" alt="William_Shakespeare" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/09/william-shakespeare-thumb.jpg" width="235" height="285" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/09/william-shakespeare.jpg) 
 
 Li给虎头穿上干净的衬衫，然后再给他系上一个围涎。我说，虎头，都这么大了，还要围涎呀。
 

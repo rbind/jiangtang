@@ -61,20 +61,20 @@ tags:
 
 &#160;
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="reader" border="0" alt="reader" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/reader-thumb.png" width="580" height="383" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/reader1.png)
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="reader" border="0" alt="reader" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/reader-thumb.png" width="580" height="383" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/reader1.png)
 
 &#160;
 
 接下来你就可以尝试添加其他博客地址了。或者，在一个博客页面，找到类似下图红彤彤的图标，单击就能导入到你的google reader里面：
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="RSS" border="0" alt="RSS" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/rss-thumb.png" width="529" height="142" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/rss.png) 
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="RSS" border="0" alt="RSS" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/rss-thumb.png" width="529" height="142" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/rss.png) 
 
 或者，windows space博客，找到右上角的tools（工具）->Subscribe to RSS feed（订阅到RSS*）：
 
-[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="space" border="0" alt="space" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/space-thumb.png" width="580" height="170" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/space.png) 
+[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="space" border="0" alt="space" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/space-thumb.png" width="580" height="170" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/space.png) 
 
 对新浪博客(sina)，
 
-[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="sina" border="0" alt="sina" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/08/sina-thumb.png" width="511" height="241" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/08/sina.png)&#160;
+[<img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="sina" border="0" alt="sina" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/08/sina-thumb.png" width="511" height="241" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/08/sina.png)&#160;
 
 其他博客，类似。

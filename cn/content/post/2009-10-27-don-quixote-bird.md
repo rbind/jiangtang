@@ -18,7 +18,7 @@ tags:
   - 版画
   - 艺术
 ---
-[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Don Quixote Bird" border="0" alt="Don Quixote Bird" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/donquixotebird-thumb.jpg" width="295" height="357" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/10/donquixotebird.jpg)
+[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="Don Quixote Bird" border="0" alt="Don Quixote Bird" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/donquixotebird-thumb.jpg" width="295" height="357" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/10/donquixotebird.jpg)
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; （_[Don Quixote Bird](http://www.douban.com/photos/photo/335292597/)_ by [方鹤](http://fanghe1971.spaces.live.com/), 1998）
 
@@ -34,22 +34,22 @@ tags:
 > 
 > 油画_[a portrait unveiling a piece of skin](http://www.douban.com/photos/photo/335118778/)_
 
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="cat salute with chinese traditional way" border="0" alt="cat salute with chinese traditional way" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/catsalutewithchinesetraditionalway-thumb.jpg" width="214" height="310" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/10/catsalutewithchinesetraditionalway.jpg)
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="cat salute with chinese traditional way" border="0" alt="cat salute with chinese traditional way" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/catsalutewithchinesetraditionalway-thumb.jpg" width="214" height="310" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/10/catsalutewithchinesetraditionalway.jpg)
 
 &#160;
 
 <table border="0" cellspacing="0" cellpadding="2" width="400">
   <tr>
     <td valign="top" width="200">
-      <a href="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/waiting.jpg"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="waiting" border="0" alt="waiting" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/waiting-thumb.jpg" width="290" height="370" /></a>
+      <a href="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/waiting.jpg"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="waiting" border="0" alt="waiting" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/waiting-thumb.jpg" width="290" height="370" /></a>
     </td>
     
     <td valign="top" width="200">
-      <a href="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/callingfromthesky.jpg"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="calling from the sky" border="0" alt="calling from the sky" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/callingfromthesky-thumb.jpg" width="270" height="303" /></a>
+      <a href="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/callingfromthesky.jpg"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="calling from the sky" border="0" alt="calling from the sky" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/callingfromthesky-thumb.jpg" width="270" height="303" /></a>
     </td>
   </tr>
 </table>
 
 &#160;
 
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="a portrait unveiling a piece of skin" border="0" alt="a portrait unveiling a piece of skin" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/10/aportraitunveilingapieceofskin-thumb.jpg" width="292" height="293" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/10/aportraitunveilingapieceofskin.jpg)
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="a portrait unveiling a piece of skin" border="0" alt="a portrait unveiling a piece of skin" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/10/aportraitunveilingapieceofskin-thumb.jpg" width="292" height="293" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/10/aportraitunveilingapieceofskin.jpg)

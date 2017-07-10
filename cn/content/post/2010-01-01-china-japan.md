@@ -18,7 +18,7 @@ tags:
 ---
 英国老牌杂志《经济学家》([economist.com](http://economist.com "http://www.economist.com"))，前些日子（去年年底）给了一副令人印象深刻的[图表](http://www.economist.com/daily/chartgallery/displaystory.cfm?story_id=15096188)，说中国将于2010年超过日本，成为世界第二大经济体(以美国作为基数):
 
-[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="China_Japan" border="0" alt="China_Japan" src="http://li-and-jiang.com/blog/wp-content/uploads/2010/01/china-japan-thumb.jpg" width="499" height="476" />](http://li-and-jiang.com/blog/wp-content/uploads/2010/01/china-japan.jpg) 
+[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="China_Japan" border="0" alt="China_Japan" src="http://jiangtanghu.com/cn/wp-content/uploads/2010/01/china-japan-thumb.jpg" width="499" height="476" />](http://jiangtanghu.com/cn/wp-content/uploads/2010/01/china-japan.jpg) 
 
 &#160;
 

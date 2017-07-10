@@ -12,7 +12,7 @@ categories:
 tags:
   - 虎
 ---
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="dolphin-tiger" border="0" alt="dolphin-tiger" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/09/dolphintiger-thumb.jpg" width="240" height="154" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/09/dolphintiger.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="dolphin-tiger" border="0" alt="dolphin-tiger" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/09/dolphintiger-thumb.jpg" width="240" height="154" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/09/dolphintiger.jpg) 
 
 Li高兴地把我从电脑桌前叫过去：虎头会拍手啦！
 

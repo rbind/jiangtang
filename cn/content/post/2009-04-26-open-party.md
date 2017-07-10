@@ -16,7 +16,7 @@ categories:
 tags:
   - open party
 ---
-[<img title="OpenParty" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; margin: 0px; border-right-width: 0px" height="430" alt="OpenParty" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/04/openparty-thumb.jpg" width="358" align="left" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/04/openparty.jpg) 
+[<img title="OpenParty" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; margin: 0px; border-right-width: 0px" height="430" alt="OpenParty" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/04/openparty-thumb.jpg" width="358" align="left" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/04/openparty.jpg) 
 
 （4月25日）这天的主题是<a href="http://www.beijing-open-party.org/" target="_blank">OpenPary</a>，它是<a href="http://www.beijing-open-party.org/index.php/about" target="_blank">北京众多IT技术社区合办的线下交流活动</a>。
 
@@ -62,4 +62,4 @@ tags:
 
 晚上一点回家。记得《荷塘月色》的句子，“轻轻地推门进去，什么声息也没有，妻已睡熟好久了。”
 
-[<img title="home" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="186" alt="home" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/04/home-thumb.jpg" width="246" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/04/home.jpg)
+[<img title="home" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="186" alt="home" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/04/home-thumb.jpg" width="246" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/04/home.jpg)

@@ -24,6 +24,6 @@ tags:
 
 还有前天，15号，晚上，<a href="http://achyia.spaces.live.com/" target="_blank">小齐</a>、<a href="http://www.douban.com/people/vikingbook/notes" target="_blank">Viking</a>和<a href="http://mimisea.spaces.live.com/" target="_blank">小米</a>、Taotao过来，一起做饭吃饭聊天。 <a href="http://www.douban.com/people/vikingbook/notes" target="_blank">Viking</a>送我们一本他新编的书，《<a href="http://www.douban.com/subject/3598301/?i=1" target="_blank">阅读的女人</a>》：
 
-[<img title="阅读的女人" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="244" alt="阅读的女人" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/04/thumb.jpg" width="180" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/04/9d780f7af254.jpg)&#160;
+[<img title="阅读的女人" style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px" height="244" alt="阅读的女人" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/04/thumb.jpg" width="180" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/04/9d780f7af254.jpg)&#160;
 
 恩，还有大前天，14号，晚上，小唐和Crazy Hou过来，又是一起聊天，喝水——我们一口气喝了两升的葡萄汁。却说这次聊天的内容，跟我前面提到的计划有关，按下不表。

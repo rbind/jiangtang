@@ -45,7 +45,7 @@ tags:
 
 > A is B，其中A是主词(subject)，B是谓词(predicate)
 
-[<img title="Apriori" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Apriori" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori_thumb.png" width="1024" height="289" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori.png)
+[<img title="Apriori" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Apriori" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori_thumb.png" width="1024" height="289" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori.png)
 
 &nbsp;
 
@@ -69,7 +69,7 @@ tags:
 
 一个分析判断，好处在于它具有必然性，坏处是它有同义反复的意味，不能够给我们带来新知识。一切经验判断都是综合的，综合判断需要经验的判定，有它的偶然性，但好处是能够给我们带来新知识。康德就脑洞大开，有没有一种既能够给我们带来新知识的综合判断，但有具有独立于经验的先天性？这就是所谓的“先天综合判断”：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-[<img title="Apriori2" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; border-left: 0px; display: block; padding-right: 0px; margin-right: auto" border="0" alt="Apriori2" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori2_thumb.png" width="1024" height="291" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori2.png)
+[<img title="Apriori2" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; border-left: 0px; display: block; padding-right: 0px; margin-right: auto" border="0" alt="Apriori2" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori2_thumb.png" width="1024" height="291" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori2.png)
 
 康德认为”先天综合判断“是存在的，所以他问的不是先天综合判断是否存在，他问的是它是如何可能的？这个问题铺开来就是这本书了，先打住。
 
@@ -83,7 +83,7 @@ tags:
 
 纯粹的知识完全不依赖于任何经验，包括直接的和间接的。
 
-[<img title="Kant_APriori" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Kant_APriori" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Kant_APriori_thumb.png" width="1024" height="565" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Kant_APriori.png)
+[<img title="Kant_APriori" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Kant_APriori" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Kant_APriori_thumb.png" width="1024" height="565" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Kant_APriori.png)
 
 上面这个文恩图不必完全准确，但可以这么读：
 
@@ -97,7 +97,7 @@ tags:
 
 下面是一组对应的词，大致可以感受下：
 
-[<img title="Apriori3" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="Apriori3" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori3_thumb.png" width="1230" height="608" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/04/Apriori3.png) 
+[<img title="Apriori3" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="Apriori3" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori3_thumb.png" width="1230" height="608" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/04/Apriori3.png) 
 
 &nbsp;
 

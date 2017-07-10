@@ -11,7 +11,7 @@ categories:
 tags:
   - Nexus 7
 ---
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="Nexus7" border="0" alt="Nexus7" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/10/Nexus7_thumb.png" width="383" height="320" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/10/Nexus7.png)
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="Nexus7" border="0" alt="Nexus7" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/10/Nexus7_thumb.png" width="383" height="320" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/10/Nexus7.png)
 
 一些事情只可意会不可言传。比如去年，我先中一台Kindle，再赢一台iPad，然后我就立下世界和平以及再中一台iPhone宏愿。于是大半个月前，我收到一台Google的平板，Nexus 7。
 

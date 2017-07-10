@@ -14,7 +14,7 @@ tags:
 ---
 # **虎头键盘手**
 
-[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="monkey_keyboard" border="0" alt="monkey_keyboard" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/07/monkey-keyboard-thumb.jpg" width="240" height="180" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/07/monkey-keyboard.jpg) 
+[<img style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto" title="monkey_keyboard" border="0" alt="monkey_keyboard" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/07/monkey-keyboard-thumb.jpg" width="240" height="180" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/07/monkey-keyboard.jpg) 
 
 把一只猴子放在键盘前，让他不停击键，有个叫**<a href="http://en.wikipedia.org/wiki/Infinite_monkey_theorem" target="_blank">Infinite monkey theorem</a>**的观点认为，只要次数够多，这只小家伙总能够把莎士比亚的作品给敲出来。
 
@@ -72,7 +72,7 @@ Li说，为啥？朗朗可是高手。
 
 # **虎头-Diego**
 
-[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="whereIsBaby" border="0" alt="whereIsBaby" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/07/whereisbaby-thumb.jpg" width="240" height="130" />](http://li-and-jiang.com/blog/wp-content/uploads/2011/07/whereisbaby.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="whereIsBaby" border="0" alt="whereIsBaby" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/07/whereisbaby-thumb.jpg" width="240" height="130" />](http://jiangtanghu.com/cn/wp-content/uploads/2011/07/whereisbaby.jpg) 
 
 五音不全，但并不影响我给虎头做音乐启蒙。跟虎头幽幽地说，有一种人，拿自己做乐器。
 

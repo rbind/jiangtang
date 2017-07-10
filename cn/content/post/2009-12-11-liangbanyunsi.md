@@ -13,7 +13,7 @@ tags:
 ---
 好久没有做新菜了，前两天做了个凉拌云丝，反馈很好，也非常简单，分享一下：
 
-[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="云丝 004" border="0" alt="云丝 004" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/004-thumb.jpg" width="244" height="184" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/12/004.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="云丝 004" border="0" alt="云丝 004" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/004-thumb.jpg" width="244" height="184" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/12/004.jpg) 
 
 1. 烧开水，把云丝烫熟。
 

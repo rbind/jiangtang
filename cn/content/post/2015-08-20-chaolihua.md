@@ -13,7 +13,7 @@ tags:
 ---
 几个月前翻了一本书，叫做《诗歌傻瓜书》([_Poetry for Dummies_](http://www.dummies.com/how-to/content/a-crash-course-in-poetic-history.html))，里面提到一首Chao Li-hua写的&#8221;_Farewell_&#8220;可以作为中国古诗的代表：
 
-[<img title="Chao Li-hua" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Chao Li-hua" src="http://li-and-jiang.com/blog/wp-content/uploads/2015/08/Chao-Li-hua_thumb.jpg" width="270" height="480" />](http://li-and-jiang.com/blog/wp-content/uploads/2015/08/Chao-Li-hua.jpg)
+[<img title="Chao Li-hua" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; border-top-width: 0px; margin-right: auto" border="0" alt="Chao Li-hua" src="http://jiangtanghu.com/cn/wp-content/uploads/2015/08/Chao-Li-hua_thumb.jpg" width="270" height="480" />](http://jiangtanghu.com/cn/wp-content/uploads/2015/08/Chao-Li-hua.jpg)
 
 那么问题是，谁是Chao Li-hua？那首出现在不少选本甚至在Facebook流传的_Farewell_是这样的：
 

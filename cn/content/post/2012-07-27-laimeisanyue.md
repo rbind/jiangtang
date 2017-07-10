@@ -30,11 +30,11 @@ categories:
 
 小区里有池塘、有泳池。这些天热，jiang基本上每天晚上下班回家来我们都会一家子去游泳，离我们的住处只要步行一分钟，简直就像是自家院子里的游泳池。泳池不是我们在北京常见的那种长方形的，而是两个交叉的椭圆型，对孩子非常友好。放暑假之后游泳池比较热闹，之前经常是我们在里面游一个小时也就我们一家三口，简直就是私家泳池。Jiang说这么好的条件，不游一游都感觉暴殄天物了：
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="clip_image001" border="0" alt="clip_image001" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image001_thumb.jpg" width="225" height="393" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image001.jpg)
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px" title="clip_image001" border="0" alt="clip_image001" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image001_thumb.jpg" width="225" height="393" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image001.jpg)
 
 整个小区，其他地方也是一样感觉，都对小动物很友好，除了鸟类，经常能在阳台上见到这样子绿色的小蜥蜴，鼓起个粉红色的大嗓子。有一次下雷阵雨，还有一只灰色的，估计是母蜥蜴，躲在我家阳台的栏杆上避雨。早上和傍晚，也经常能看到小小的四脚蛇从阳台上爬过去。这里是温暖湿润的南方，因此家里的地毯上常能看见各种活的小昆虫爬来爬去，例如蜘蛛。Jiang在家的时候还好，他不在家的时候我和虎头就只能母子同心，想尽各种办法把它们弄出去了。这一点要赞一下虎头，今天上午在我守住一直大蜘蛛的时候他就帮我去卫生间拿纸，使我得以成功把那位黑色的大蜘蛛转移到花园里。我一直都很怕各种小虫，尤其是在北京生活了这么多年之后，看到家里有虫子简直是胆战心惊，可是在虎头面前又要表现得很镇定很勇敢，还要一边教育他，唉！C’est la vie!享受大自然的美丽丰富，就要享受大自然中的bug（下面的绿蜥蜴是网上找的）。
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="clip_image002" border="0" alt="clip_image002" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image002_thumb.jpg" width="244" height="184" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image002.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="clip_image002" border="0" alt="clip_image002" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image002_thumb.jpg" width="244" height="184" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image002.jpg)
 
 我们住处离美丽的Jordan Lake开车只需要十分钟，某天傍晚我们去那边散了散步。平静浩瀚的湖面，凉风习习，湖边的沙子很细滑，这么好的资源在国内肯定早就圈起来做公园增加政府收入了，在这里却是一串修建好的码头和巨大的停车位，都是用私家车后面拖个架子，上面架着或者皮划艇、或者摩托艇、或者一家人坐的小船，自己开车过来。临近傍晚，因此看到很多艇都划回来了。但也有一对老夫妻，每人一艘单人的皮划艇，选了一个水浅平静的地方下水，那位老大爷的皮划艇上装了一个附加的设施，因为他背部受伤需要更多的支撑。这位老爷爷大概六七十岁了，他说受伤后他有十多年都没有在野外的水上呆过，这次他要待到实在饿不住了才回来。看着他那乐观的孩子般的笑容，突然就觉得很感动，这边的老人特别独立，有时候想想他们的孩子都不会养他们，比起中国的老人少些子孙绕膝的幸福，但是他们这么一大把年纪仍然自己找乐子享受生活，比起中国的老人又更多一些活着的尊严。
 
@@ -52,4 +52,4 @@ categories:
 
 最后贴张虎头小朋友近照：
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image004" border="0" alt="clip_image004" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image004_thumb.jpg" width="256" height="342" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/07/clip_image004.jpg)
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top: 0px; border-right: 0px; padding-top: 0px" title="clip_image004" border="0" alt="clip_image004" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image004_thumb.jpg" width="256" height="342" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/07/clip_image004.jpg)

@@ -13,7 +13,7 @@ tags:
   - 何欣
   - 我的勇气就是找到你
 ---
-[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s3984300" border="0" alt="s3984300" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/12/s3984300-thumb.jpg" width="108" height="161" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/12/s3984300.jpg) 
+[<img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="s3984300" border="0" alt="s3984300" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/12/s3984300-thumb.jpg" width="108" height="161" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/12/s3984300.jpg) 
 
 这是一本怀旧而让人充满勇气的书。
 

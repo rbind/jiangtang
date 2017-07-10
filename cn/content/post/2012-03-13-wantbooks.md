@@ -57,7 +57,7 @@ categories:
 
 **甲1：**
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 010" border="0" alt="_ 010" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/03/010_thumb.jpg" width="565" height="425" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/03/010.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 010" border="0" alt="_ 010" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/03/010_thumb.jpg" width="565" height="425" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/03/010.jpg)
 
 <strike>1. 左一开始，是《<font color="#ff0000">批判的思考</font>》，讲的是基本的逻辑学，加上现代的案例，要是觉得自己需要给写作和论辩加上些逻辑的力量，可以一读。不分背景，推荐指数4</strike>
 
@@ -89,7 +89,7 @@ categories:
 
 **甲2：**
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 012" border="0" alt="_ 012" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/03/012_thumb.jpg" width="468" height="622" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/03/012.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 012" border="0" alt="_ 012" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/03/012_thumb.jpg" width="468" height="622" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/03/012.jpg)
 
 &#160;
 
@@ -107,7 +107,7 @@ categories:
 
 **乙1：**
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 013" border="0" alt="_ 013" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/03/013_thumb.jpg" width="462" height="614" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/03/013.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 013" border="0" alt="_ 013" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/03/013_thumb.jpg" width="462" height="614" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/03/013.jpg)
 
 <strike>18. 左一，《<font color="#ff0000">爱默生演讲录</font>》，这个是好书，每个人都可以用它来灌输下所谓人文素养，推荐指数4。</strike>
 
@@ -121,13 +121,13 @@ categories:
 
 **乙2：**
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 014" border="0" alt="_ 014" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/03/014_thumb.jpg" width="497" height="661" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/03/014.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 014" border="0" alt="_ 014" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/03/014_thumb.jpg" width="497" height="661" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/03/014.jpg)
 
 &#160;
 
 **乙3：**
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 015" border="0" alt="_ 015" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/03/015_thumb.jpg" width="398" height="530" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/03/015.jpg)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="_ 015" border="0" alt="_ 015" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/03/015_thumb.jpg" width="398" height="530" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/03/015.jpg)
 
 &#160;
 

@@ -11,7 +11,7 @@ categories:
   - 生活
   - 读书
 ---
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto; padding-top: 0px" title="Phantomtollbooth" border="0" alt="Phantomtollbooth" src="http://li-and-jiang.com/blog/wp-content/uploads/2013/06/Phantomtollbooth_thumb.png" width="332" height="483" />](http://li-and-jiang.com/blog/wp-content/uploads/2013/06/Phantomtollbooth.png)
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto; padding-top: 0px" title="Phantomtollbooth" border="0" alt="Phantomtollbooth" src="http://jiangtanghu.com/cn/wp-content/uploads/2013/06/Phantomtollbooth_thumb.png" width="332" height="483" />](http://jiangtanghu.com/cn/wp-content/uploads/2013/06/Phantomtollbooth.png)
 
 最近在看儿童文学，[Norton Juster](http://en.wikipedia.org/wiki/Norton_Juster)的_[The Phantom Tollbooth](http://en.wikipedia.org/wiki/The_Phantom_Tollbooth) （[诺顿·贾斯特《神奇的收费亭》](http://baike.baidu.com/view/7125429.htm)）_。之前没听过，一本儿童心理学的书，《[孩子们：儿童心理发展](http://book.douban.com/subject/1408350/)》，提到了它，作者说它是小时候跟《爱丽丝奇遇记》一起看的书，然后就找来翻了。
 

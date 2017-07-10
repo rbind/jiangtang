@@ -21,7 +21,7 @@ tags:
 ---
 有朋友说我饱食终日，整天饭局，无所用心，不学无术，——这可是六月飞雪的误会，这些日子，本人还是念念不忘加强理论学习地。
 
-[<img title="tongyizhanxian" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="382" alt="tongyizhanxian" src="http://li-and-jiang.com/blog/wp-content/uploads/2009/06/tongyizhanxian-thumb.jpg" width="288" border="0" />](http://li-and-jiang.com/blog/wp-content/uploads/2009/06/tongyizhanxian.jpg) 
+[<img title="tongyizhanxian" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="382" alt="tongyizhanxian" src="http://jiangtanghu.com/cn/wp-content/uploads/2009/06/tongyizhanxian-thumb.jpg" width="288" border="0" />](http://jiangtanghu.com/cn/wp-content/uploads/2009/06/tongyizhanxian.jpg) 
 
 我们的<a href="http://www.zytzb.org.cn/zytzbwz/ztlm/tongzhan20/wjjd/80200610090001.htm" target="_blank">第20次全国统战工作会议</a>，把统一战线工作范围扩大为15种（2000年的19次会议，定的是12种，这次新增三种：私营企业和外资企业的管理技术人员、中介组织从业人员、自由职业人员）。数一数，旁边需要统战的朋友不少啊：
 

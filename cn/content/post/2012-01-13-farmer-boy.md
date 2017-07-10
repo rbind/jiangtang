@@ -27,7 +27,7 @@ categories:
 
 傍晚为了赶巴士，我跟艾略特四点就出来，循旧路返回北卡大学教堂山分校，然后珊朵拉在那里接我们回教堂山，艾略特开车回德兰。
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="luobo" border="0" alt="luobo" src="http://li-and-jiang.com/blog/wp-content/uploads/2012/01/luobo-thumb.png" width="365" height="240" />](http://li-and-jiang.com/blog/wp-content/uploads/2012/01/luobo.png)
+[<img style="background-image: none; border-right-width: 0px; margin: 0px 5px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="luobo" border="0" alt="luobo" src="http://jiangtanghu.com/cn/wp-content/uploads/2012/01/luobo-thumb.png" width="365" height="240" />](http://jiangtanghu.com/cn/wp-content/uploads/2012/01/luobo.png)
 
 午饭带的是昨晚的剩菜（只是菜）。昨晚我做了这道小红萝卜，加肉，还做了小卷心菜，加肉，还做了小西葫芦，加肉。
 

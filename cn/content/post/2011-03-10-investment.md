@@ -65,7 +65,7 @@ tags:
 
 关于投资小孩，刚读到一篇<a href="http://ftp.iza.org/dp3515.pdf" target="_blank">文章</a>，说投资小孩的收益，在他越小的时候越高：
 
-<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="invst" border="0" alt="invst" src="http://li-and-jiang.com/blog/wp-content/uploads/2011/03/invst-thumb.png" width="448" height="410" />
+<img style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px" title="invst" border="0" alt="invst" src="http://jiangtanghu.com/cn/wp-content/uploads/2011/03/invst-thumb.png" width="448" height="410" />
 
 &#160;
 
