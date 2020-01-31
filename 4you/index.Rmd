@@ -2,6 +2,15 @@
 title: "Serious Poems for Kids"
 author: ["Jiangtang Hu"]
 date: "`r Sys.Date()`"
+output:
+  bookdown::pdf_book:
+    keep_tex: yes
+    #citation_package: natbib
+    toc_depth: 3
+    toc_unnumbered: no
+    toc_appendix: yes
+    pandoc_args: --top-level-division=chapter 
+
 knit: "bookdown::render_book"
 documentclass: book
 link-citations: yes

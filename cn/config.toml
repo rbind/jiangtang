@@ -5,7 +5,9 @@ title = "Jiangtang Hu | 胡江堂"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
-publishDir = "C:\\Users\\jhu\\Documents\\GitHub\\jiangtang.github.com\\cn"
+
+
+
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
